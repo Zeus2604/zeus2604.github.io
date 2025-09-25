@@ -1,0 +1,21 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "miniapp": {
+    "frame": {
+      "version": "1",
+      "name": "Zeus Aprende Inglés",
+      "homeUrl": "https://zeus2604.github.io/aprende-ingles-to-be/",
+      "iconUrl": "https://zeus2604.github.io/aprende-ingles-to-be/imagenes/imagenes/imagenes/photo_2025-09-24%2012.18.19.jpeg?raw=true",
+      "splashImageUrl": "https://zeus2604.github.io/aprende-ingles-to-be/imagenes/imagenes/imagenes/photo_2025-09-24%2012.18.19.jpeg?raw=true",
+      "splashBackgroundColor": "#1e3c72",
+      "subtitle": "Aprende inglés desde cero",
+      "description": "Mini app para aprender inglés desde cero, enfocada en el verbo TO BE.",
+      "primaryCategory": "education",
+      "tags": ["ingles", "aprendizaje", "miniapp", "educacion"]
+    }
+  }
+}
